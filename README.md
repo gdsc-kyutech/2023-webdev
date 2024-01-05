@@ -26,3 +26,6 @@ Javascriptを用いて，Webページにプログラミング要素を足しま�
 ## Sources
 - **[スライド](slide.pdf)**  
 講座で使用したスライドです．
+- **[イベント録画](https://www.youtube.com/watch?v=-doYd7XkY8E)**  
+本資料を用いて，2023/12/16(土)に九州工業大学飯塚キャンパスポルト棟にてハンズオンイベントを開催しました．  
+イベント詳細は[こちら](https://gdsc.community.dev/events/details/developer-student-clubs-kyushu-institute-of-technology-presents-hazimetenowebkai-fa/)から．
